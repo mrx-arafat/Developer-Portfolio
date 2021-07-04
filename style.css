@@ -51,7 +51,7 @@ span {
   margin-bottom: 50px;
 }
 .bottom-section {
-  background-image: url("images/exp-bg.png");
+  background-image: url("images/dream-bg.png");
   background-repeat: no-repeat;
   background-position-x: right;
   margin-bottom: 10px;
@@ -74,13 +74,35 @@ span {
 
 .parent .half-width {
   width: 40%;
-  margin-left: 5%;
-  margin-left: 5%;
-  box-shadow: 10px 10px 15px orange;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 20px;
+  box-shadow: 6px 6px 10px gray;
   border-radius: 10px;
 }
 .third-section {
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
   background-size: left;
+  margin-bottom: 50px;
+}
+.third-section .th {
+  text-align: center;
+  color: #ff7139;
+}
+#border1 {
+  border-left: 10px solid;
+  border-image: linear-gradient(tomato, salmon);
+  border-image-slice: 1;
+}
+
+#border2 {
+  border-left: 10px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+
+footer {
+  font-size: 13px;
+  text-align: center;
 }
