@@ -19,7 +19,8 @@ span {
   color: orange;
 }
 .box1 {
-  margin: 50px 0px;
+  margin-top: 180px;
+  margin-left: 100px;
 }
 
 .box1 p {
