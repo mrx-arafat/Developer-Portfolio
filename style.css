@@ -18,9 +18,10 @@ section h1 {
 span {
   color: orange;
 }
-.box1 {
+
+.top-section .half-width .box1 {
   margin-top: 180px;
-  margin-left: 100px;
+  margin-left: 80px;
 }
 
 .box1 p {
@@ -28,6 +29,7 @@ span {
 }
 .half-width {
   width: 50%;
+
   padding-left: 4%;
 }
 
