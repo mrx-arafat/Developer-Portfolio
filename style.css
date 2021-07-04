@@ -2,6 +2,8 @@
 
 body {
   font-family: Poppins;
+  margin: 0;
+  padding: 0;
 }
 section {
   display: flex;
@@ -10,19 +12,39 @@ section h1 {
   font-size: 50px;
 }
 .header-secondary {
-  font-size: 40px;
+  font-size: 45px;
+  width: 130%;
 }
 span {
   color: orange;
 }
 .box1 {
-  margin: 10px;
+  margin: 50px 25px;
 }
 
+.box1 p {
+  text-align: justify;
+}
 .half-width {
   width: 50%;
+  padding-left: 4%;
 }
 
 .half-width img {
   width: 100%;
+}
+.hire-me-button {
+  text-decoration: none;
+  padding: 10px 40px;
+
+  background-image: linear-gradient(to top left, orange, tomato);
+  border-radius: 20px;
+  color: white;
+  font-weight: 650;
+}
+.top-section {
+  background-image: url("images/top-banner.png");
+
+  background-size: cover;
+  background-repeat: no-repeat;
 }
