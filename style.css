@@ -64,7 +64,7 @@ span {
   margin-top: 50px;
 }
 .parent {
-  margin-bottom: 20px;
+  margin: 64px;
 }
 .parent h1 {
   font-size: 36px;
@@ -74,11 +74,11 @@ span {
 }
 
 .parent .half-width {
-  width: 40%;
-  margin-left: 3%;
-  margin-right: 3%;
+  width: 45%;
+  margin-left: 20px;
+  margin-right: 20px;
   padding: 20px;
-  box-shadow: 6px 6px 10px gray;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
   border-radius: 10px;
 }
 .third-section {
@@ -104,6 +104,7 @@ span {
 }
 
 footer {
-  font-size: 13px;
+  font-size: 15px;
+  font-weight: 550;
   text-align: center;
 }
