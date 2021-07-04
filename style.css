@@ -42,6 +42,17 @@ span {
   color: white;
   font-weight: 650;
 }
+
+.resume-me-button {
+  text-decoration: none;
+  padding: 10px 40px;
+
+  background-image: linear-gradient(to top left, orange, tomato);
+  border-radius: 20px;
+  color: white;
+  font-weight: 650;
+}
+
 .top-section {
   background-image: url("images/top-banner.png");
 
