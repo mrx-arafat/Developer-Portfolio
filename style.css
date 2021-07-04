@@ -3,3 +3,26 @@
 body {
   font-family: Poppins;
 }
+section {
+  display: flex;
+}
+section h1 {
+  font-size: 50px;
+}
+.header-secondary {
+  font-size: 40px;
+}
+span {
+  color: orange;
+}
+.box1 {
+  margin: 10px;
+}
+
+.half-width {
+  width: 50%;
+}
+
+.half-width img {
+  width: 100%;
+}
