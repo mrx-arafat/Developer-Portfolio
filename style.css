@@ -12,14 +12,14 @@ section h1 {
   font-size: 50px;
 }
 .header-secondary {
-  font-size: 45px;
-  width: 130%;
+  font-size: 38px;
+  width: 100%;
 }
 span {
   color: orange;
 }
 .box1 {
-  margin: 50px 25px;
+  margin: 50px 0px;
 }
 
 .box1 p {
@@ -43,19 +43,23 @@ span {
   font-weight: 650;
 }
 
-.resume-me-button {
-  text-decoration: none;
-  padding: 10px 40px;
-
-  background-image: linear-gradient(to top left, orange, tomato);
-  border-radius: 20px;
-  color: white;
-  font-weight: 650;
-}
-
 .top-section {
   background-image: url("images/top-banner.png");
 
   background-size: cover;
   background-repeat: no-repeat;
+  margin-bottom: 50px;
+}
+.bottom-section {
+  background-image: url("images/my-bg2.png");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 50px;
+}
+.bottom-section img {
+  width: 80%;
+}
+.right-box {
+  margin-top: 50px;
 }
