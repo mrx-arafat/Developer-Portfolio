@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
 }
-section {
+.flex-container {
   display: flex;
 }
 section h1 {
@@ -62,4 +62,8 @@ span {
 }
 .right-box {
   margin-top: 50px;
+}
+
+.parent h1 {
+  font-size: 40px;
 }
