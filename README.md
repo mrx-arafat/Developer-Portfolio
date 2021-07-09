@@ -3,3 +3,5 @@
 Developer : Easin Arafat
 
 [Portfolio Page Link](https://mrx-arafat.github.io/Developer-Portfolio/)
+
+NB : Desktop view only 
